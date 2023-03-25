@@ -6,3 +6,9 @@
 কারণ জাভাস্ক্রিপ্ট হলো ওয়েব মাতৃভাষা।  জাভাস্ক্রিপ্ট না জেনে ওয়েব ডেভেলপমেন্ট সম্বব নয়। জাভাস্ক্রিপ্ট কে বলা হয় একটা 
 High label programming language 
 
+
+JavaScript and Java are completely different languages, both in concept and design.
+
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+
+ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
