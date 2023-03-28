@@ -19,7 +19,7 @@ x = 6;
 // JavaScript uses an assignment operator ( = ) to assign values to variables:
 // যার মাধ্যমে একটা ভ্যালু নতুন ভ্যালুতে  replace করা যায় 
 
-    let x, y;
+    let x2, y2;
     x = 5;
     y = 6;
 
@@ -39,7 +39,7 @@ x = 5 + 6;
 y = x * 10;
 
 
-var x, y;
+var x1, y1;
 x = 5 + 6;
 y = x * 10;
 
@@ -47,6 +47,40 @@ y = x * 10;
 
 //JavaScript Comments : খাতায় রাফ যেভাবে আমরা করি সে রকম। এই কোড গুলু গুপন থাকে 
 // comment 
+
+
+
+
+
+
+
+// JavaScript Identifiers / Names ::: id যার মাধ্যমে নাম দেওয়া হয় 
+
+
+
+
+
+
+
+// JavaScript is Case Sensitive : js ছুট হাতের word আর বড় হাতে word একই হলে ও জাভাস্ক্রিপ্ট দুইটা আলাদা বুজে 
+
+const lastName = "Doe";
+Lastname = "Peterson"; // worng
+
+
+
+
+
+// JavaScript and Camel Case ::::
+const wel_come = "";
+
+// Lower Camel Case::::::
+
+const welCome = "";
+
+
+
+
 
 
 
