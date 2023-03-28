@@ -1,5 +1,3 @@
-
-
 জাভাস্ক্রিপ্ট কি ?
 
 জাভাস্ক্রিপ্ট হলো একটি প্রোগ্রামিং ল্যাঙ্গুয়েজে।  এটা বর্তমান সব চেয়ে পপুলার প্রোগ্রামিং ল্যাঙ্গুয়েজে। 
@@ -7,8 +5,10 @@
 High label programming language 
 
 
-JavaScript and Java are completely different languages, both in concept and design.
+Did You Know?:::::::::::::::::::::
 
-JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+1. JavaScript and Java are completely different languages, both in concept and design.
 
-ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+2. JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+
+3. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.

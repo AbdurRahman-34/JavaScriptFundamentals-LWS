@@ -1,0 +1,28 @@
+ What is JavaScript Syntax ? 
+ -JavaScript Syntax হলো রুলস নিয়ম কানুন।  কিভাবে কোড লিখতে হবে 
+
+
+
+The JavaScript syntax defines two types of values ::::::::::
+
+1. Fixed values / JavaScript Literals
+
+2. Variable values
+
+
+
+
+
+JavaScript Variables ?
+-In a programming language, variables are used to store data values. একটা নাম দিয়ে ডাটা store করার সিস্টেম 
+
+
+
+arithmetic operators ::::::::::
+( + - * / ) to compute values:
+
+
+
+assignment operator ::: 
+
+

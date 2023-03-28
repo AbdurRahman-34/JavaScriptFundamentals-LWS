@@ -1,4 +1,6 @@
 JavaScript Statements:::::::::::::::::
+একটি প্রোগ্রামিং ভাষায়, এই প্রোগ্রামিং নির্দেশাবলীকে স্টেটমেন্ট বলা হয়।
+
 
 
 JavaScript statements are composed of:
